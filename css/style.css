@@ -105,6 +105,7 @@ header.shadow {
 }
 .home-img img {
   width: 80%;
+  border-radius: 2rem;
 }
 .home-text span {
   font-size: var(--medium-font);
@@ -155,7 +156,7 @@ header.shadow {
  
 .about-img img {
   width: 75%;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 .about-text p {
   font-size: var(--p-font);
@@ -240,7 +241,7 @@ span {
 }
 .portfolio-img {
   overflow: hidden;
-  border-radius: 0.5rem;
+  border-radius: 0.7rem;
 }
 .portfolio-img img {
   width: 100%;
