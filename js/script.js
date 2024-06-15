@@ -16,7 +16,7 @@ window.onscroll = () => {
 
 window.addEventListener('DOMContentLoaded', () => {
     const typingText = document.querySelector('.typing');
-    const skills = ['Undergrauate Student','UI/UX Designer', 'Front-end Developer', 'ICT Tutor'];
+    const skills = ['Undergraduate Student','UI/UX Designer', 'Front-end Developer', 'ICT Tutor'];
   
     let index = 0;
     let charIndex = 0;
